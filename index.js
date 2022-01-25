@@ -51,7 +51,7 @@ app.post('/', (req, res, next) => {
         params: { langpair: langpair, q: text, mt: '1', onlyprivate: '0', de: 'a@b.c' },
         headers: {
             'x-rapidapi-host': 'translated-mymemory---translation-memory.p.rapidapi.com',
-            'x-rapidapi-key': ''
+            'x-rapidapi-key': "API_KEY"
         }
     };
 
