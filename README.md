@@ -7,8 +7,8 @@ Translate Any Language into another
 Use the command to install 
 
 ## Requirements
-* [NODE]() 
-* [Redis]() 
+* [NODE](https://nodejs.org/en/download/) 
+* [Redis](https://github.com/tporadowski/redis/releases) 
 
 NB: Make sure these are installed 
 #### RUN REDIS SERVER
